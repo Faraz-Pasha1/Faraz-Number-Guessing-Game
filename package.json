@@ -1,6 +1,6 @@
 {
   "name": "farazpasha1-guessing-number-game",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "bin": "index.js",
